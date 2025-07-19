@@ -1,0 +1,61 @@
+Variable,EnglishLabel
+rec_num,Order of record in file
+survyear,Survey year
+survmnth,Survey month
+ lfsstat    ,Labour force status
+prov,Province
+cma,Nine largest CMAs
+age_12,Five-year age group of respondent
+age_6    ,"Age in 2 and 3 year groups, 15 to 29"
+gender,Gender of respondent
+marstat,Marital status of respondent
+educ,Highest educational attainment
+mjh,Single or multiple jobholder
+everwork,Identifies if a person has worked in the last year
+ftptlast,Full- or part-time status of last job
+cowmain,"Class of worker, main job"
+immig,Immigrant status
+naics_21,Industry of main job
+noc_10    ,Occupation at main job
+noc_43,Occupation at main job
+yabsent,"Reason of absence, full week"
+wksaway,Number of weeks absent from work
+payaway,"Paid for time off, full-week absence only"
+uhrsmain,Usual hours worked per week at main job
+ahrsmain,Actual hours worked per week at main job
+ftptmain,Full- or part-time status at main or only job
+utothrs,Usual hours worked per week at all jobs
+atothrs,Actual hours worked per week at all jobs
+hrsaway,"Hours away from work, part-week absence only"
+yaway,Reason for part-week absence
+paidot,Paid overtime hours in reference week
+unpaidot,Unpaid overtime hours in reference week
+xtrahrs,Number of overtime or extra hours worked
+whypt,Reason for part-time work
+tenure,Job tenure with current employer
+prevten,Job tenure with previous employer
+hrlyearn,Usual hourly wages
+union,Union status
+permtemp,Job permanency
+estsize,Establishment size
+firmsize,Firm size
+durunemp,Duration of unemployment
+flowunem,Flows into unemployment
+unemftpt,Job seekers by type of work sought and temporary layoffs by work status of last job
+whylefto,Reason for leaving job during previous year 
+whyleftn,Reason for leaving job during previous year 
+durjless,Duration of joblessness
+availabl,Availability during the reference week
+lkpubag,"Unemployed, used public employment agency"
+lkemploy,"Unemployed, checked with employers directly"
+lkrels,"Unemployed, checked with friends or relatives"
+lkatads,"Unemployed, looked at job ads"
+lkansads,"Unemployed, placed or answered ads"
+lkothern ,"Unemployed, other methods"
+prioract,Main activity before started looking for work
+ynolook,Reason for not looking for work during the reference week
+tlolook,"Temporary layoff, looked for work during the last four weeks"
+schooln,Current student status
+efamtype,Type of economic family
+agyownk,Age of youngest child
+finalwt,Standard final weight
